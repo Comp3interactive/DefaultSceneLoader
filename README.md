@@ -1,6 +1,6 @@
 # Default Scene Loader
 This little utility provides the user with the ability to select a default loading scene whenever the play button is pressed. Perfect for games with preloader scenes that are required to run before launching the actual game.
-
+<center><img src="img/DefaultSceneLoaderSettings.png"</center>
 <b>Setup Instructions</b>
 <ul>
   <li>Insert the contents of the Default Scene Loader folder into your project's Editor folder</li>
